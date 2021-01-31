@@ -1,0 +1,16 @@
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.exe
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.deps.json
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.runtimeconfig.json
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.runtimeconfig.dev.json
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.dll
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\ref\checkingBigNumbers.dll
+C:\Programming\C#\checkingBigNumbers\bin\Debug\net5.0\checkingBigNumbers.pdb
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.csprojAssemblyReference.cache
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.AssemblyInfoInputs.cache
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.AssemblyInfo.cs
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.csproj.CoreCompileInputs.cache
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.dll
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\ref\checkingBigNumbers.dll
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.pdb
+C:\Programming\C#\checkingBigNumbers\obj\Debug\net5.0\checkingBigNumbers.genruntimeconfig.cache

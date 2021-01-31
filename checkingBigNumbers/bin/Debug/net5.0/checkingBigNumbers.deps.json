@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "checkingBigNumbers/1.0.0": {
+        "runtime": {
+          "checkingBigNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "checkingBigNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
