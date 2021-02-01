@@ -13,8 +13,9 @@ namespace checkingBigNumbers
         static string binaryToDecimal(string InValue)
         {
             BigInteger result = 0;
-            foreach(char digit in InValue)
+            for (int i = 0; i < InValue.Length; i++)
             {
+                char digit = InValue[i];
                 result <<= 1;
                 result += digit == '1' ? 1 : 0;
             }
@@ -37,10 +38,10 @@ namespace checkingBigNumbers
                 stringNumbersBeforeConversion.Add(line);
             }
 
-            for (int i = 0; i < stringNumbersBeforeConversion.Count; i++)
+            for (int j = 0; j < stringNumbersBeforeConversion.Count; j++)
             {
                 //Gdy poprzednia lista jest zapełniona, ta pętla konwertuje elementy na liczby w systemie dziesiętnym
-                bigNumber = BigInteger.Parse(binaryToDecimal(stringNumbersBeforeConversion[i]));
+                bigNumber = BigInteger.Parse(binaryToDecimal(stringNumbersBeforeConversion[j]));
                 extremelyLargeNumbers.Add(bigNumber);
             }
 
@@ -48,13 +49,13 @@ namespace checkingBigNumbers
             BigInteger[] bigIntArr = new BigInteger[1000];
             bigIntArr = extremelyLargeNumbers.ToArray();
 
-            for (int j = 0; j < bigIntArr.Length; j++)
+            for (int k = 0; k < bigIntArr.Length; k++)
             {
                 //Jeśli element w tablicy jest równy największemu elementowi z listy, pętla zakończy się
-                if (bigIntArr[j] == extremelyLargeNumbers.Max())
+                if (bigIntArr[k] == extremelyLargeNumbers.Max())
                 {
                     //Wyświetlenie wiersza na którym znajduje się dana liczba
-                    Console.WriteLine("Największa liczba znajduje się na wierszu {0}", (j + 1).ToString());
+                    Console.WriteLine("Największa liczba znajduje się na wierszu {0}", (k + 1).ToString());
                     break; 
                 }           
             }
