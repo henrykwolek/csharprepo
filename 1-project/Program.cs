@@ -3,11 +3,10 @@ using System.Text;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Collections.Generic;
-using System.Diagnostics;
-
-namespace C_ {
-  //Autor: Henryk Wołek IIC
-  class Program {
+namespace C_
+{
+    //Autor: Henryk Wołek IIC
+    class Program {
     //Funkcja która jako argument przyjmuje hasło użytkownika (string), a zwraca wartość hashu SHA256 tej zmiennej
     public static String sha256_hash(String userPassword) {
       StringBuilder Sb = new StringBuilder();
@@ -28,8 +27,7 @@ namespace C_ {
       //Zebranie danych od użytkownika
       Console.WriteLine("KX crypter by Henryk Wołek\nPodaj słowo do zaszyfrowania!: \n");
       string userMessageToBeEncrypted = Console.ReadLine();
-      Console.WriteLine("Twoje słowo to " + userMessageToBeEncrypted + ". Teraz podaj swoje sekretne hasło:\n");
-      string userPassPhrase = Console.ReadLine();
+      string userPassPhrase = "cr`mcj3E%@xaBsYQ";
 
       //Inicjalizacja pustej tablicy typu char[]
       char[] tempCharArray = userMessageToBeEncrypted.ToArray();

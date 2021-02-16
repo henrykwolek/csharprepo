@@ -1,0 +1,16 @@
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.exe
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.deps.json
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.runtimeconfig.json
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.runtimeconfig.dev.json
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.dll
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\ref\hackerrank.dll
+C:\Programming\C#\hackerrank\bin\Debug\net5.0\hackerrank.pdb
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.csprojAssemblyReference.cache
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.AssemblyInfoInputs.cache
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.AssemblyInfo.cs
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.csproj.CoreCompileInputs.cache
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.dll
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\ref\hackerrank.dll
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.pdb
+C:\Programming\C#\hackerrank\obj\Debug\net5.0\hackerrank.genruntimeconfig.cache

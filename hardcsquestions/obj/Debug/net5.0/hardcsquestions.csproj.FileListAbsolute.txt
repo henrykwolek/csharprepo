@@ -1,0 +1,5 @@
+C:\Programming\C#\hardcsquestions\obj\Debug\net5.0\hardcsquestions.csprojAssemblyReference.cache
+C:\Programming\C#\hardcsquestions\obj\Debug\net5.0\hardcsquestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\hardcsquestions\obj\Debug\net5.0\hardcsquestions.AssemblyInfoInputs.cache
+C:\Programming\C#\hardcsquestions\obj\Debug\net5.0\hardcsquestions.AssemblyInfo.cs
+C:\Programming\C#\hardcsquestions\obj\Debug\net5.0\hardcsquestions.csproj.CoreCompileInputs.cache

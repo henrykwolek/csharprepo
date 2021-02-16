@@ -1,0 +1,16 @@
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.csprojAssemblyReference.cache
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.AssemblyInfoInputs.cache
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.AssemblyInfo.cs
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.csproj.CoreCompileInputs.cache
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.exe
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.deps.json
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.runtimeconfig.json
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.runtimeconfig.dev.json
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.dll
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\ref\keygrabber.dll
+C:\Programming\C#\keygrabber\bin\Debug\net5.0\keygrabber.pdb
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.dll
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\ref\keygrabber.dll
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.pdb
+C:\Programming\C#\keygrabber\obj\Debug\net5.0\keygrabber.genruntimeconfig.cache

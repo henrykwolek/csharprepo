@@ -1,0 +1,16 @@
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.csprojAssemblyReference.cache
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.AssemblyInfoInputs.cache
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.AssemblyInfo.cs
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.csproj.CoreCompileInputs.cache
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.exe
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.deps.json
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.runtimeconfig.json
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.runtimeconfig.dev.json
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.dll
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\ref\crypterSafety.dll
+C:\Programming\C#\crypterSafety\bin\Debug\net5.0\crypterSafety.pdb
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.dll
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\ref\crypterSafety.dll
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.pdb
+C:\Programming\C#\crypterSafety\obj\Debug\net5.0\crypterSafety.genruntimeconfig.cache
